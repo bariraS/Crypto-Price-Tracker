@@ -75,13 +75,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/crypto-tracker-social-card.jpg',
+      // image: 'img/crypto-tracker-social-card.jpg',
       navbar: {
         title: 'Crypto Tracker Docs',
-        logo: {
-          alt: 'Crypto Tracker Logo',
-          src: 'img/logo.svg',
-        },
+        
         items: [
           {
             type: 'docSidebar',
@@ -90,14 +87,14 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/your-github-username/crypto-tracker',
+            href: 'https://github.com/bariraS/Crypto-Price-Tracker.git',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
       footer: {
-        
+
         links: [
           {
             title: 'Docs',
@@ -117,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-github-username/crypto-tracker',
+                href: 'https://github.com/bariraS/Crypto-Price-Tracker.git',
               },
             ],
           },

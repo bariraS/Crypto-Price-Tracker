@@ -31,8 +31,8 @@ crypto-tracker/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-github-username/crypto-tracker.git
-cd crypto-tracker
+git clone https://github.com/bariraS/Crypto-Price-Tracker.git
+cd Crypto-Price-Tracker
 ```
 
 2. Navigate to the web app directory:

@@ -76,7 +76,7 @@ export default function Home() {
               <div className="margin-top--lg">
                 <Link
                   className="button button--primary button--lg"
-                  to="https://github.com/your-github-username/crypto-tracker">
+                  to="https://github.com/bariraS/Crypto-Price-Tracker.git">
                   View on GitHub
                 </Link>
               </div>
